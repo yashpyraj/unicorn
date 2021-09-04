@@ -83,7 +83,7 @@ export default function ContactUs() {
                 <option>Others</option>
               </select>
             </div>
-            {/* <div className="col-8 form-group pt-2 mx-auto">
+            <div className="col-8 form-group pt-2 mx-auto">
               <textarea
                 className="form-control"
                 id=""
@@ -92,7 +92,7 @@ export default function ContactUs() {
                 placeholder="Your message"
                 name="message"
               ></textarea>
-            </div> */}
+            </div>
             <div className="col-8 form-group pt-2 mx-auto">
               <select
                 className="form-select form-select-sm"
